@@ -1,0 +1,6 @@
+https://<pending-video>/
+(Replace with your unlisted Loom/YouTube link before submitting.
+Suggested 3-5 min outline: login -> new doc -> format + autosave ->
+import .md -> share as Viewer to Sarah -> switch user: read-only + comment ->
+back as Elvin: promote to Editor -> Comments panel + resolve ->
+History panel + restore -> Export .md / Print-to-PDF.)
