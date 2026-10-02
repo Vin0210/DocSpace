@@ -143,10 +143,10 @@ Limits: 1 MB max, empty files rejected, other extensions rejected with a clear m
 - Versions: anyone with access can view history; only owners and editors can restore
   (restore preserves the current state as a new version first).
 
-## Deployment URL placeholder
+## Deployment
 
-- Live app: `https://<pending-deploy>/` (single service serves UI + API)
-- API: same origin, under `/api` (e.g. `https://<pending-deploy>/api/health`)
+- Live app: `https://docspace-amw5.onrender.com/` (single service serves UI + API)
+- API: same origin, under `/api` (e.g. `https://docspace-amw5.onrender.com/api/health`)
 
 ### Deploy on Render (free, single service)
 
